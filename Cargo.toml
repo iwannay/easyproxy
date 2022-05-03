@@ -1,0 +1,18 @@
+[package]
+name = "easyproxy"
+version = "0.1.0"
+authors = ["iwannay <772648576@qq.com>"]
+edition = "2021"
+description = "🐚 An async & dynamic 4 layer TCP proxy for Rust"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/easyproxy"
+repository = "https://github.com/iwnanay/easyproxy"
+categories = ["proxy"]
+keywords = ["async", "tcp","proxy"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.17.0", features = ["full"] }
+env_logger = "0.9.0"
+log = "0.4.16"
