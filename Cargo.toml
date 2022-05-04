@@ -1,6 +1,6 @@
 [package]
 name = "easyproxy"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["iwannay <772648576@qq.com>"]
 edition = "2021"
 description = "🐚 An async & dynamic 4 layer TCP proxy for Rust"
