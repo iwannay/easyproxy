@@ -7,7 +7,7 @@ description = "🐚 An async & dynamic 4 layer TCP proxy for Rust"
 license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/easyproxy"
 repository = "https://github.com/iwnanay/easyproxy"
-categories = ["proxy"]
+categories = ["network-programming"]
 keywords = ["async", "tcp","proxy"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
